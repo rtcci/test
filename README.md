@@ -25,4 +25,5 @@ Please read [the contlibute guideline](https://github.com/rtcci/test/wiki/How-to
 - [Bug Report](https://github.com/rtcci/test/wiki/How-to-Contribute#バグ報告)
 - [Feature Request](https://github.com/rtcci/test/wiki/How-to-Contribute#機能追加の提案)
 - [Inquiry](https://github.com/rtcci/test/wiki/How-to-Contribute#問い合わせ)
+- Pull Request
 
