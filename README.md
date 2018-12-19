@@ -1,54 +1,16 @@
-## 行動規範
+# OpenRTM-aist
+This is a release of OpenRTM-aist-0.4.2, dual-license open source
+RT-Middleware.
 
-## プロジェクトへの貢献方法
-### バグ報告
-この節ではバグ報告に関して記載します。   
-バグ報告時には、下記のガイドラインに従うことで、メンバーがバグ報告を確認する際の助けとなります。
+Carefully read the following files before you configure, build, install
+OpenRTM and develop RT-Components.
 
-### バグ報告をする前に
-報告しようとしているバグがすでに修正されている可能性もあるので、   
-下記の項目を確認してください。
+files:
+README      - This file
+README.jp   - Japanese Version of This file
+COPYRIGHT   - Copyright Notice and License Information
+COPYING.LIB - LGPL Terms and Conditions
+INSTALL     - Installation Instructions
+INSTALL.jp  - Installation Instructions (Japanese)
 
-- ソフトウェアバージョンを確認する  
-報告しようとしているバグがすでに修正されている可能性もあるので   
-最新のソフトウェアバージョンで現象が発生するか確認してください。
 
-  - Windows  
-コントロールパネル -> プログラム -> プログラムと機能 -> 検索窓に openrtm と検索
-  - Linux  
-コマンドプロンプトで $dpkg -l 'openrtm*' で出力されるバージョン列を確認ください
-　- 最新ソフトウェアバージョン
-
-- バグを報告すべきリポジトリを決定する
-Issueはリポジトリ毎に発行できるため、バグを報告するリポジトリを決定してください
-また、どのリポジトリか判断が出来ない場合は OpenRTM-aist リポジトリのIssueで作成してください。
-
-- 共通のバグが報告されていないか確認する  
-報告しようとしているバグがすでに他のユーザーに報告されている可能性もあるので、  
-まだクローズされていない[Issue](https://github.com/tonboAkinori/NameToVelocity/issues)に同様の報告がないか確認してください。
-
-### バグの報告方法
-[バグ報告テンプレート](https://github.com/tonboAkinori/work2/issues/new?template=----.md&labels=bug)に従って情報を記入してください 
-下記はテンプレートの内容を抜粋したものです。
-
-  
-### 機能追加の提案
-この節では、機能の追加や拡張の提案ついて記載します。
-提案時には、下記のガイドラインに従うことで、メンバーが提案を理解する際の助けとなります。
-  
-### 機能追加を提案する前に
-機能追加を提案する前に、IssueリストからEnhanceラベルが付与されているIssueを確認してください。
-もしかすると、すでに提案されている機能かもしれません。
-  
-### 機能追加の提案方法
-[機能テンプレート](https://github.com/tonboAkinori/work2/issues/new?template=----.md&labels=enhancement)に従って情報を記入してください.
-
-### 問い合わせ
-この節では、問い合わせについて記載します。
-
-### 問い合わせをする前に
-ホームページに問い合わせに対する回答が記載されているかもしれません。
-[こちら](http://openrtm.org)を確認してみてください。
-
-### 問い合わせ方法
-[こちら](https://github.com/tonboAkinori/work2/issues/new?template=----.md&labels=enhancement)に問い合わせたい内容を可能な限り詳細に記載してください。
