@@ -17,7 +17,7 @@ Please report unacceptable behavior to [INSERT EMAIL ADDRESS].
 
 # Resources
 - [Official Site](http://openrtm.org)
-- [Issue List]()
+- [Issue Tracking](https://github.com/rtcci/test/issues)
 
 # How To Contribute
 Please refer the contlibute guideline.
