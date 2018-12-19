@@ -14,7 +14,7 @@ INSTALL     - Installation Instructions
 INSTALL.jp  - Installation Instructions (Japanese)  
 
 This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md).
-Please report unacceptable behavior to [].
+Please report unacceptable behavior to [INSERT EMAIL ADDRESS].
 
 # Resources
 - [Official Site](http://openrtm.org)
