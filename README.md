@@ -20,5 +20,9 @@ Please report unacceptable behavior to [INSERT EMAIL ADDRESS].
 - [Issue Tracking](https://github.com/rtcci/test/issues)
 
 # How To Contribute
-Please refer the contlibute guideline.
+Please read [the contlibute guideline](https://github.com/rtcci/test/wiki/How-to-Contribute).
+
+- [Bug Report](https://github.com/rtcci/test/wiki/How-to-Contribute#バグ報告)
+- [Feature Request](https://github.com/rtcci/test/wiki/How-to-Contribute#機能追加の提案)
+- [Inquiry](https://github.com/rtcci/test/wiki/How-to-Contribute#問い合わせ)
 
