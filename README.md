@@ -1,8 +1,7 @@
 # OpenRTM-aist
-This is a release of OpenRTM-aist-0.4.2, dual-license open source
-RT-Middleware.
+This is a release of OpenRTM-aist-0.4.2, dual-license open source RT-Middleware.
 
-Carefully read the following files before you configure, build, install
+Carefully read the following files before you configure, build, install  
 OpenRTM and develop RT-Components.
 
 files:  
@@ -18,4 +17,8 @@ Please report unacceptable behavior to [INSERT EMAIL ADDRESS].
 
 # Resources
 - [Official Site](http://openrtm.org)
+- [Issue List]()
+
+# How To Contribute
+Please refer the contlibute guideline.
 
