@@ -17,6 +17,5 @@ This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDU
 Please report unacceptable behavior to [].
 
 # Resources
-[Official Site](http://openrtm.org):
-
+- [Official Site](http://openrtm.org)
 
