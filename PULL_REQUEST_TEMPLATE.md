@@ -6,7 +6,7 @@
 
 ## Identify the Bug
 
-Link to the issue describing the bug that you're fixing.
+Link to the issue describing the bug that you're fixing.  
 If there is not yet an issue for your bug, please open a new issue and then link to that issue in your pull request.
 
 
