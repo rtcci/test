@@ -26,4 +26,3 @@ verify that the change has not introduced any regressions.
 - [ ] Did you succesed the build?  
 - [ ] No warnings for build?  
 - [ ] Have you ran the unit tests?  
-- [ ] Have you ran the integration tests?  
