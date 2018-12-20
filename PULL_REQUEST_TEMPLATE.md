@@ -6,22 +6,20 @@
 
 ## Identify the Bug
 
-<!--
 Link to the issue describing the bug that you're fixing.
 If there is not yet an issue for your bug, please open a new issue and then link to that issue in your pull request.
--->
+
 
 ## Description of the Change
 
-<!--
 We must be able to understand the design of your change from this description. I
--->
+
 
 ## Verification 
 
-<!--
-verify that the change has not introduced any regressions. 
--->
+
+Verify that the change has not introduced any regressions. 
+
 
 - [ ] Did you succesed the build?  
 - [ ] No warnings for the build?  
