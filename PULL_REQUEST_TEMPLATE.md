@@ -12,7 +12,7 @@ If there is not yet an issue for your bug, please open a new issue and then link
 
 ## Description of the Change
 
-We must be able to understand the design of your change from this description. I
+We must be able to understand the design of your change from this description.
 
 
 ## Verification 
