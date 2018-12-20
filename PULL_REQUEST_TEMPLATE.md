@@ -24,5 +24,5 @@ verify that the change has not introduced any regressions.
 -->
 
 - [ ] Did you succesed the build?  
-- [ ] No warnings for build?  
+- [ ] No warnings for the build?  
 - [ ] Have you ran the unit tests?  
