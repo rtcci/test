@@ -24,6 +24,6 @@ Please read [the contlibute guideline](https://github.com/OpenRTM/OpenRTM-aist/w
 
 - [Bug Report](https://github.com/OpenRTM/OpenRTM-aist/wiki/How-to-Contribute#バグ報告)
 - [Feature Request](https://github.com/OpenRTM/OpenRTM-aist/wiki/How-to-Contribute#機能追加の提案)
-- [Inquiry](https://github.com/OpenRTM/OpenRTM-aist/How-to-Contribute#問い合わせ)
+- [Inquiry](https://github.com/OpenRTM/OpenRTM-aist/wiki/How-to-Contribute#問い合わせ)
 - [Pull Request](https://github.com/OpenRTM/OpenRTM-aist/wiki/How-to-Contribute#pull-request)
 
